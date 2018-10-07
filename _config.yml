@@ -15,7 +15,7 @@ avatar: yes
 avatar_img_path: "https://avatars0.githubusercontent.com/u/18695610?s=460&v=4"
 
 front_img: yes
-front_img_path: "images/background.jpg"
+front_img_path: "images/background2.jpg"
 
 # Build settings
 markdown: kramdown
