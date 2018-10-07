@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+name: Ingo Griebsch
+description: "Coding Architect @gbtec-ag | Husband and father | Boardgame addict | Loves Clutch as well as Tricky"
+url: "https://www.ingogriebsch.de"
